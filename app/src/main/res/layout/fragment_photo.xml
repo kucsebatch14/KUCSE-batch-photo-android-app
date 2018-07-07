@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/card_main_1" />
+
+
+       <include layout="@layout/album_lastclassparty" />
+        <include layout="@layout/album_lastclasstour" />
+        <include layout="@layout/album_ragday" />
+        <include layout="@layout/album_rupshatrip" />
+        <include layout="@layout/album_farewell" />
+        <include layout="@layout/album_festival" />
+        <include layout="@layout/album_23_oikantik" />
+        <include layout="@layout/album_24_panam" />
+        <include layout="@layout/album_25_hilly" />
+        <include layout="@layout/album_26_combined" />
+        <include layout="@layout/album_classroom" />
+        <include layout="@layout/album_halllife" />
+        <include layout="@layout/album_27_sumitinvi" />
+        <include layout="@layout/album_28_cox" />
+        <include layout="@layout/album_universitycampus" />
+        <include layout="@layout/album_nboborsho" />
+        <include layout="@layout/album_sundorbon" />
+        <include layout="@layout/album_ragpastonefour" />
+        <include layout="@layout/album_pltimesundorbon" />
+        <include layout="@layout/album_threebros" />
+        <include layout="@layout/album_sport" />
+        <include layout="@layout/album_nightdub" />
+        <include layout="@layout/album_omegacelebration" />
+        <include layout="@layout/album_twobirthday" />
+        <include layout="@layout/album_nightnewyear" />
+        <include layout="@layout/album_chsessional" />
+        <include layout="@layout/album_helpdesk" />
+        <include layout="@layout/album_orientation" />
+        <include layout="@layout/card_main_3" />
+
+        <include layout="@layout/ad_banner_main_card" />
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
