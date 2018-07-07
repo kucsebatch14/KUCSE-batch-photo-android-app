@@ -36,7 +36,7 @@ In 1991, Computer Science and Engineering (CSE) Discipline of Khulna University 
 
 ## Development :
 
-**Build status:** master ![](https://api.travis-ci.org/owncloud/android.svg?branch=master) stable ![](https://api.travis-ci.org/owncloud/android.svg?branch=stable)
+<!-- **Build status:** master ![](https://api.travis-ci.org/owncloud/android.svg?branch=master) stable ![](https://api.travis-ci.org/owncloud/android.svg?branch=stable) -->
 
 **Start contributing:** If you are a kucseian14 you can collect your old batch photo and contact to kucsebatch14@gmail.com. For programming Contrubution: Fork this repository and contribute back using pull requests to the master branch. It's open to all about giving new idea about the prject.
 It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/pulls).
