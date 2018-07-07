@@ -1,6 +1,26 @@
 # KUCSE-batch-photo-android-app
 
 
+<a href="https://drive.google.com"><img src="pictures/drive_link.png" height="75"></a><a href="https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/releases"><img src="pictures/githubicon.png" height="75"></a>
+
+
+#### Download it from Google Drive or Github Releases:  
+ 
+
+ <img src="pictures/batch_photo_1.png" width="200"/> <img src="pictures/batch_photo_2.png" width="200"/> <img src="pictures/batch_photo_3.png" width="200" /> 
+<img src="pictures/batch_photo_4.png" width="200"/> <img src="pictures/batch_photo_5.png" width="200"/> <img src="pictures/batch_photo_6.png" width="200" />
+
+## Join development!
+
+**Build status:** master ![](https://api.travis-ci.org/owncloud/android.svg?branch=master) stable ![](https://api.travis-ci.org/owncloud/android.svg?branch=stable)
+
+**Start contributing:** If you are a kucseian14 you can collect your old batch photo and contact to kucsebatch14@gmail.com. For programming Contrubution: Fork this repository and contribute back using pull requests to the master branch. It's open to all about giving new idea about the prject.
+It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/pulls).
+
+
+
+**License:** [GNU General Public License v3.0](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/LICENSE)
+
 #### Used :
 
 - NavigationView  
@@ -20,24 +40,10 @@
 - BottomNavigationView  
 - Adaptive icon  
 - App shortcuts 
-
-
-#### Google Drive:  
-https:// 
-  
-![image](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/pictures/batch_photo_1.png)
-
-![image](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/pictures/batch_photo_2.png)
-
-![image](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/pictures/batch_photo_3.png)
-
-![image](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/pictures/batch_photo_4.png)
-
-![image](https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/blob/master/pictures/batch_photo_6.png)
   
 ---  
 
-#### Contrubutor to the open source project  
+#### Contrubutor of the open source project  
 - [Md. Shahidul Islam](https://github.com/shahidul56)  
 
 
