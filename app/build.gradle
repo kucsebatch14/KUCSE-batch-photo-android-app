@@ -5,10 +5,10 @@ android {
 
     defaultConfig {
         applicationId "com.bluster.kucsebatch14"
-        minSdkVersion 20
+        minSdkVersion 21
         targetSdkVersion 27
         versionCode 36
-        versionName "4.4"
+        versionName "0.13.5"
     }
 
     buildTypes {

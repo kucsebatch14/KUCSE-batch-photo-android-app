@@ -22,7 +22,7 @@
             android:layout_height="128dp"
             android:background="@color/gray_very_light"
             android:scaleType="centerInside"
-            android:src="@mipmap/ic_launcher_round" />
+            android:src="@mipmap/ic_launcher" />
 
         <RelativeLayout
             android:layout_width="wrap_content"

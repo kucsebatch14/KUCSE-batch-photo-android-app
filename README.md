@@ -1,9 +1,9 @@
 
 
-<p align="center"><a href="https://kucsebatch14.github.io"><img src="pictures/pic_logo.png" width="150"/></a></p> 
+<p align="center"><a href="https://kucsebatch14.github.io"><img src="pictures/pic_luncher.jpg" width="150"/></a></p> 
 <h2 align="center"><b>KU CSE 14</b></h2>
 <h4 align="center">A photo sharing and storage service Android app developed by kucsebatch14.</h4>
-<p align="center"> Download it from Google Drive or Github Releases </p>
+<p align="center"> Download it from Github Releases </p>
 
 <p align="center"><a href="https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/releases"><img src="pictures/pic_download.png" height="75"></a></p> 
 
@@ -80,7 +80,7 @@ It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-ba
 # Rules
 > 1. Don't do evil.
 > 2. Don't repeat yourself.
-> 3. Only make one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/))
+> 3. Only make one change per commit 
 
 #### :  
     Copyright 2018  kucsebatch14  
