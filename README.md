@@ -10,9 +10,9 @@
 
 <p align="center">
 <a href="https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" /></a>
-<a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPL v3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" /></a>
+<a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPL v3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat" /></a>
  <a href="http://developer.android.com/index.html" alt="Platform: GPL v3"><img src="https://img.shields.io/badge/platform-android-green.svg)" /></a>
-  <a href="https://android-arsenal.com/api?level=21" alt="API: GPL v3"><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg)" /></a>
+  <a href="https://android-arsenal.com/api?level=21" alt="API: GPL v3"><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)" /></a>
 <a href="https://travis-ci.org/kucsebatch14/KUCSE-batch-photo-android-app" alt="Build Status"><img src="https://travis-ci.org/kucsebatch14/KUCSE-batch-photo-android-app.svg" /></a>
 
 </p>
