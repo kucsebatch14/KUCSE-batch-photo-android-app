@@ -7,10 +7,6 @@
             android:id="@+id/nav_scrolling"
             android:icon="@drawable/ic_file_download_black_24dp"
             android:title="@string/nav_scrolling" />
-        <item
-            android:id="@+id/nav_full_screen"
-            android:icon="@drawable/ic_fullscreen_black_24dp"
-            android:title="@string/nav_fullscreen" />
 
 
     </group>

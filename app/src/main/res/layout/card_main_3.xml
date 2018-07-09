@@ -34,7 +34,7 @@
             android:layout_marginStart="@dimen/card_subtitle_margin"
             android:layout_marginEnd="@dimen/card_subtitle_margin"
             android:layout_marginTop="@dimen/card_button_margin"
-            android:text="@string/main_card_subtitle" />
+            android:text="Rate the app" />
 
         <TextView
             android:id="@+id/tv_card_main3_details"

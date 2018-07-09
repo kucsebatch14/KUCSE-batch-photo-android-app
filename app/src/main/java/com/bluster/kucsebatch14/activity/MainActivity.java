@@ -161,8 +161,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         LinearLayout nav_header = headerView.findViewById(R.id.nav_header);
         nav_header.setOnClickListener(this);
 
-        fab = findViewById(R.id.fab_main);
-        fab.setOnClickListener(this);
+
 
         //adding two blank view to this
         relative_main = findViewById(R.id.relative_main);
@@ -227,11 +226,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         @Override
         public void onPageSelected(int position) {
-            if (position == 2) {
-                fab.show();
-            } else {
-                fab.hide();
-            }
+//            if (position == 2) {
+//                fab.show();
+//            } else {
+//                fab.hide();
+//            }
         }
 
         @Override
@@ -247,22 +246,22 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
-            case R.id.nav_header:
-                Intent intent = new Intent(MainActivity.this, LoginActivity.class);
-                startActivity(intent);
-                DrawerLayout drawer = findViewById(R.id.drawer_layout);
-                drawer.closeDrawer(GravityCompat.START);
-                break;
-
-            case R.id.fab_main:
-                Snackbar.make(view, getString(R.string.main_snack_bar), Snackbar.LENGTH_LONG)
-                        .setAction(getString(R.string.main_snack_bar_action), new View.OnClickListener() {
-                            @Override
-                            public void onClick(View view) {
-
-                            }
-                        }).show();
-                break;
+//            case R.id.nav_header:
+//                Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+//                startActivity(intent);
+//                DrawerLayout drawer = findViewById(R.id.drawer_layout);
+//                drawer.closeDrawer(GravityCompat.START);
+//                break;
+//
+//            case R.id.fab_main:
+//                Snackbar.make(view, getString(R.string.main_snack_bar), Snackbar.LENGTH_LONG)
+//                        .setAction(getString(R.string.main_snack_bar_action), new View.OnClickListener() {
+//                            @Override
+//                            public void onClick(View view) {
+//
+//                            }
+//                        }).show();
+//                break;
         }
     }
 //---------------------------------------------------------------
@@ -307,10 +306,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(intent);
                 break;
 
-            case R.id.nav_full_screen:
-                intent.setClass(this, FullscreenActivity.class);
-                startActivity(intent);
-                break;
+
 
 
 

@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" /></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPL v3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat" /></a>
- <a href="http://developer.android.com/index.html" alt="Platform:"><img src="https://img.shields.io/badge/platform-android-green.svg)" /></a>
+ <a href="http://developer.android.com/index.html" alt="Platform:"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103))" /></a>
   <a href="https://android-arsenal.com/api?level=21" alt="API:"><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)" /></a>
 <a href="https://travis-ci.org/kucsebatch14/KUCSE-batch-photo-android-app" alt="Build Status"><img src="https://travis-ci.org/kucsebatch14/KUCSE-batch-photo-android-app.svg" /></a>
 
@@ -30,7 +30,7 @@
 <img src="pictures/batch_photo_4.png" width="200"/> <img src="pictures/batch_photo_5.png" width="200"/> <img src="pictures/batch_photo_6.png" width="200" />
 <img src="pictures/batch_photo_7.png" width="200"/> <img src="pictures/batch_photo_8.png" width="200"/> <img src="pictures/batch_photo_9.png" width="200" />
 <img src="pictures/batch_photo_10.png" width="200"/> <img src="pictures/batch_photo_11.png" width="200"/> <img src="pictures/batch_photo_12.png" width="200" />
-
+<img src="pictures/batch_photo_13.png" width="200"/> <img src="pictures/batch_photo_14.png" width="200"/> <img src="pictures/batch_photo_15.png" width="200" /><img src="pictures/batch_photo_16.png" width="200" />
 
 ## Discreptions :
 
