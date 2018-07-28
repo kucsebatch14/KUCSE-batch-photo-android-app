@@ -79,10 +79,12 @@ It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-ba
 
 #### Contrubutor of the open source project  
 - [Md. Shahidul Islam](https://github.com/shahidul56)  
+
 # Rules
 > 1. Don't do evil.
-> 2. Don't repeat yourself.
-> 3. Only make one change per commit 
+> 2. Only make one change per commit 
+> 3. New ideas are welcome.
+ 
 
 #### :  
     Copyright 2018  kucsebatch14  
