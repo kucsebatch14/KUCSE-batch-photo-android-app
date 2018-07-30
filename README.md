@@ -5,7 +5,7 @@
 <h4 align="center">A photo sharing and storage service Android app developed by kucsebatch14.</h4>
 <p align="center"> Download it from Google Drive or Github Releases </p>
 
-<p align="center"><a href="https://goo.gl/mdNeJG"><img src="pictures/pic_download.png" height="75"></a></p> 
+<p align="center"><a href=""><img src="pictures/pic_download.png" height="75"></a></p> 
 
 
 <p align="center">
