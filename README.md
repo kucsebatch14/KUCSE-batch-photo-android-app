@@ -80,7 +80,7 @@ It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-ba
 #### Contrubutor of the open source project  
 - [Md. Shahidul Islam](https://github.com/shahidul56)  
 
-#### Assist contrubution  
+#### Assist contribution  
 - [Moksedul Islam Mishuk](moksedulislammishuk@gmail.com)  
 
 # Rules
