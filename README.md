@@ -3,9 +3,9 @@
 <p align="center"><a href="https://kucsebatch14.github.io"><img src="pictures/pic_luncher.jpg" width="150"/></a></p> 
 <h2 align="center"><b>KU CSE 14</b></h2>
 <h4 align="center">A photo sharing and storage service Android app developed by kucsebatch14.</h4>
-<p align="center"> Download it from Github Releases </p>
+<p align="center"> Download it from Google Drive or Github Releases </p>
 
-<p align="center"><a href="https://github.com/kucsebatch14/KUCSE-batch-photo-android-app/releases"><img src="pictures/pic_download.png" height="75"></a></p> 
+<p align="center"><a href=""><img src="pictures/pic_download.png" height="75"></a></p> 
 
 
 <p align="center">
@@ -79,10 +79,15 @@ It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-ba
 
 #### Contrubutor of the open source project  
 - [Md. Shahidul Islam](https://github.com/shahidul56)  
+
+#### Assist contribution  
+- [Moksedul Islam Mishuk](moksedulislammishuk@gmail.com)  
+
 # Rules
 > 1. Don't do evil.
-> 2. Don't repeat yourself.
-> 3. Only make one change per commit 
+> 2. Only make one change per commit 
+> 3. New ideas are welcome.
+ 
 
 #### :  
     Copyright 2018  kucsebatch14  
