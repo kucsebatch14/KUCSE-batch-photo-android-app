@@ -8,6 +8,51 @@
         <item>London</item>
     </string-array>
 
+    <array name="student_images">
+
+        <item>@drawable/rumpa</item>
+        <item>@drawable/tohid</item>
+        <item>@drawable/f1</item>
+        <item>@drawable/c1</item>
+        <item>@drawable/x</item>
+        <item>@drawable/v</item>
+        <item>@drawable/k</item>
+        <item>@drawable/d1</item>
+        <item>@drawable/n</item>
+        <item>@drawable/h1</item>
+        <item>@drawable/pic_c</item>
+        <item>@drawable/g</item>
+        <item>@drawable/z</item>
+        <item>@drawable/q</item>
+        <item>@drawable/fahim</item>
+        <item>@drawable/j</item>
+        <item>@drawable/i</item>
+        <item>@drawable/t</item>
+        <item>@drawable/picss_samima</item>
+        <item>@drawable/sumit</item>
+        <item>@drawable/o</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/l</item>
+        <item>@drawable/e</item>
+        <item>@drawable/u</item>
+        <item>@drawable/f</item>
+        <item>@drawable/s</item>
+        <item>@drawable/h</item>
+        <item>@drawable/b1</item>
+        <item>@drawable/y</item>
+        <item>@drawable/sujon</item>
+        <item>@drawable/e1</item>
+        <item>@drawable/pic_b</item>
+        <item>@drawable/pic_mus</item>
+        <item>@drawable/pic_a</item>
+        <item>@drawable/m</item>
+        <item>@drawable/d</item>
+        <item>@drawable/w</item>
+
+
+
+    </array>
+
     <string-array name="spinner_array">
         <item>spinner item 1</item>
         <item>spinner item 2</item>
