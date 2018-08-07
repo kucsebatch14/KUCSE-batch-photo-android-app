@@ -35,46 +35,6 @@
             android:text="Sundarbans jungle tour Cse-14"
             android:textColor="@color/white" />
 
-        <!--<RelativeLayout-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignParentStart="true"-->
-            <!--android:layout_alignParentTop="true"-->
-            <!--android:padding="@dimen/card_button_margin">-->
-
-            <!--<ImageView-->
-                <!--android:id="@+id/album_img_main_card2_share_11"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_alignParentEnd="true"-->
-                <!--android:layout_marginEnd="8dp"-->
-                <!--android:background="?attr/selectableItemBackgroundBorderless"-->
-                <!--android:clickable="true"-->
-                <!--android:padding="8dp"-->
-                <!--android:src="@drawable/ic_share_black_24dp" />-->
-
-            <!--<ImageView-->
-                <!--android:id="@+id/album_img_main_card2_bookmark_11"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_marginEnd="8dp"-->
-                <!--android:layout_toStartOf="@id/album_img_main_card2_share_11"-->
-                <!--android:background="?attr/selectableItemBackgroundBorderless"-->
-                <!--android:clickable="true"-->
-                <!--android:padding="8dp"-->
-                <!--android:src="@drawable/ic_bookmark_border_black_24dp" />-->
-
-            <!--<ImageView-->
-                <!--android:id="@+id/album_img_main_card2_favorite_11"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_marginEnd="8dp"-->
-                <!--android:layout_toStartOf="@id/album_img_main_card2_bookmark_11"-->
-                <!--android:background="?attr/selectableItemBackgroundBorderless"-->
-                <!--android:clickable="true"-->
-                <!--android:padding="8dp"-->
-                <!--android:src="@drawable/ic_favorite_border_black_24dp" />-->
-        <!--</RelativeLayout>-->
 
 
     </RelativeLayout>

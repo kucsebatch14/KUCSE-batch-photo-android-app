@@ -15,6 +15,7 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.widget.ImageView;
 
+import com.bluster.kucsebatch14.activity.ArcLayoutMainActivity;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 import com.bluster.kucsebatch14.R;
@@ -404,8 +405,8 @@ public class InfoFragment extends Fragment implements View.OnClickListener, View
 
             case R.id.student_card_main_1:
 
-//                intent.setClass(getActivity(), ContactActivity.class);
-//                startActivity(intent);
+                intent.setClass(getActivity(), ArcLayoutMainActivity.class);
+                startActivity(intent);
                 break;
 
 

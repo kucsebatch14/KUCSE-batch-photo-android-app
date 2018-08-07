@@ -46,14 +46,14 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
     private LinearLayout ll_card_main3_rate;
 
     //##########start album########
-    private ImageView img_main_card_1, img_card_main_3,img_main_card_2,album_img_main_card_1,album_img_main_card_2,album_img_main_card_3,album_img_main_card_4,album_img_main_card_5,album_img_main_card_6,album_img_main_card_7,album_img_main_card_8,album_img_main_card_9,album_img_main_card_10,album_img_main_card_11,album_img_main_card_12,album_img_main_card_13,album_img_main_card_14,album_img_main_card_15,album_img_main_card_16,album_img_main_card_17,album_img_main_card_18,album_img_main_card_19,album_img_main_card_20,album_img_main_card_21,album_img_main_card_22,album_img_main_card_23,album_img_main_card_24,album_img_main_card_25,album_img_main_card_26,album_img_main_card_27,album_img_main_card_28;
+    private ImageView img_main_card_1, img_card_main_3,img_main_card_2,album_img_main_card_1,album_img_main_card_2,album_img_main_card_3,album_img_main_card_4,album_img_main_card_5,album_img_main_card_6,album_img_main_card_7,album_img_main_card_8,album_img_main_card_9,album_img_main_card_10,album_img_main_card_11,album_img_main_card_12,album_img_main_card_13,album_img_main_card_14,album_img_main_card_15,album_img_main_card_16,album_img_main_card_17,album_img_main_card_18,album_img_main_card_19,album_img_main_card_20,album_img_main_card_21,album_img_main_card_22,album_img_main_card_23,album_img_main_card_24,album_img_main_card_25,album_img_main_card_26,album_img_main_card_27,album_img_main_card_28,album_img_main_card_29,album_img_main_card_30,album_img_main_card_31,album_img_main_card_32,album_img_main_card_33;
 
 
 
 
 
     //##########start album########
-    private CardView card_main_1_1, card_main_1_2,card_main_1_3,  album_id_header_1,album_id_header_2,album_id_header_3,album_id_header_4,album_id_header_5,album_id_header_6,album_id_header_7,album_id_header_8,album_id_header_9,album_id_header_10,album_id_header_11,album_id_header_12,album_id_header_13,album_id_header_14,album_id_header_15,album_id_header_16,album_id_header_17,album_id_header_18,album_id_header_19,album_id_header_20,album_id_header_21,album_id_header_22,album_id_header_23,album_id_header_24,album_id_header_25,album_id_header_26,album_id_header_27,album_id_header_28;
+    private CardView card_main_1_1, card_main_1_2,card_main_1_3,  album_id_header_1,album_id_header_2,album_id_header_3,album_id_header_4,album_id_header_5,album_id_header_6,album_id_header_7,album_id_header_8,album_id_header_9,album_id_header_10,album_id_header_11,album_id_header_12,album_id_header_13,album_id_header_14,album_id_header_15,album_id_header_16,album_id_header_17,album_id_header_18,album_id_header_19,album_id_header_20,album_id_header_21,album_id_header_22,album_id_header_23,album_id_header_24,album_id_header_25,album_id_header_26,album_id_header_27,album_id_header_28,album_id_header_29,album_id_header_30,album_id_header_31,album_id_header_32,album_id_header_33;
 
 
     private AlphaAnimation alphaAnimation, alphaAnimationShowIcon;
@@ -109,6 +109,13 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         album_img_main_card_27 = nestedScrollView.findViewById(R.id.album_img_main_card_27);
         album_img_main_card_28 = nestedScrollView.findViewById(R.id.album_img_main_card_28);
 
+        album_img_main_card_29 = nestedScrollView.findViewById(R.id.album_img_main_card_29);
+        album_img_main_card_30 = nestedScrollView.findViewById(R.id.album_img_main_card_30);
+        album_img_main_card_31 = nestedScrollView.findViewById(R.id.album_img_main_card_31);
+        album_img_main_card_32 = nestedScrollView.findViewById(R.id.album_img_main_card_32);
+        album_img_main_card_33 = nestedScrollView.findViewById(R.id.album_img_main_card_33);
+
+
 
 
 
@@ -152,6 +159,13 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         album_id_header_27 = nestedScrollView.findViewById(R.id.album_id_header_27);
         album_id_header_28 = nestedScrollView.findViewById(R.id.album_id_header_28);
 
+        album_id_header_29 = nestedScrollView.findViewById(R.id.album_id_header_29);
+        album_id_header_30 = nestedScrollView.findViewById(R.id.album_id_header_30);
+        album_id_header_31 = nestedScrollView.findViewById(R.id.album_id_header_31);
+        album_id_header_32 = nestedScrollView.findViewById(R.id.album_id_header_32);
+        album_id_header_33 = nestedScrollView.findViewById(R.id.album_id_header_33);
+
+
 
 
         card_main_1_3 = nestedScrollView.findViewById(R.id.card_main_1_3);
@@ -192,6 +206,13 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         Glide.with(getContext()).load(R.drawable.pic_oldcombined).apply(new RequestOptions().fitCenter()).into(album_img_main_card_26);
         Glide.with(getContext()).load(R.drawable.pic_sumit).apply(new RequestOptions().fitCenter()).into(album_img_main_card_27);
         Glide.with(getContext()).load(R.drawable.pic_cox).apply(new RequestOptions().fitCenter()).into(album_img_main_card_28);
+
+        Glide.with(getContext()).load(R.drawable.pic_firstviva).apply(new RequestOptions().fitCenter()).into(album_img_main_card_29);
+        Glide.with(getContext()).load(R.drawable.pic_firsthangout).apply(new RequestOptions().fitCenter()).into(album_img_main_card_30);
+        Glide.with(getContext()).load(R.drawable.pic_firstfootball).apply(new RequestOptions().fitCenter()).into(album_img_main_card_31);
+        Glide.with(getContext()).load(R.drawable.pic_firstclass).apply(new RequestOptions().fitCenter()).into(album_img_main_card_32);
+        Glide.with(getContext()).load(R.drawable.pic_firstcampus).apply(new RequestOptions().fitCenter()).into(album_img_main_card_33);
+
 
 
 
@@ -256,6 +277,12 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         album_id_header_27.setOnClickListener(this);
         album_id_header_28.setOnClickListener(this);
 
+        album_id_header_29.setOnClickListener(this);
+        album_id_header_30.setOnClickListener(this);
+        album_id_header_31.setOnClickListener(this);
+        album_id_header_32.setOnClickListener(this);
+        album_id_header_33.setOnClickListener(this);
+
 
 
 
@@ -299,6 +326,11 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         album_id_header_28.setOnTouchListener(this);
 
 
+        album_id_header_29.setOnTouchListener(this);
+        album_id_header_30.setOnTouchListener(this);
+        album_id_header_31.setOnTouchListener(this);
+        album_id_header_32.setOnTouchListener(this);
+        album_id_header_33.setOnTouchListener(this);
 
 
 
@@ -342,6 +374,12 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
         album_img_main_card_26.startAnimation(alphaAnimation);
         album_img_main_card_27.startAnimation(alphaAnimation);
         album_img_main_card_28.startAnimation(alphaAnimation);
+
+        album_img_main_card_29.startAnimation(alphaAnimation);
+        album_img_main_card_30.startAnimation(alphaAnimation);
+        album_img_main_card_31.startAnimation(alphaAnimation);
+        album_img_main_card_32.startAnimation(alphaAnimation);
+        album_img_main_card_33.startAnimation(alphaAnimation);
 
 
 
@@ -628,6 +666,38 @@ public class PhotoFragment extends Fragment implements View.OnClickListener, Vie
                 final CustomTabsIntent intent28 = new CustomTabsIntent.Builder().build();
                 final String url28 ="https://photos.google.com/share/AF1QipN8VPRRuGWuKzETPWgg1nW6dsoWcQnANqAOJB-8S7UkSJqdxDCCuDHIzoCJJKq6jA?key=Z0hvMldfSE9sSTBqYXhoczhVTUcybk9mZWxmVnZ3";
                 intent28.launchUrl(getActivity(), Uri.parse(url28));
+                break;
+
+
+            case R.id.album_id_header_29:
+                final CustomTabsIntent intent29 = new CustomTabsIntent.Builder().build();
+                final String url29 ="https://photos.google.com/share/AF1QipNTeAIhGnpO8L6TuqcNAa88xTJIBzvm0ZHmHaoTFGfPfZrQ2sLPiYkoZPaB2LzeNw?key=VFE5bEppLTRreDNuRU5ySi0tRzRyNzBsb1d1NEJn";
+                intent29.launchUrl(getActivity(), Uri.parse(url29));
+                break;
+
+            case R.id.album_id_header_30:
+                final CustomTabsIntent intent30 = new CustomTabsIntent.Builder().build();
+                final String url30 ="https://photos.google.com/share/AF1QipNirhxn9DA8aFs9qZKnJefpMEwyQmTT1N-8HSpX4WSIDj0vM45QMH0iytpv8VIvSA?key=MldYMUFFb2RZZ21uclAzZ0ZWSTc3M1pRNDRaUEVR";
+                intent30.launchUrl(getActivity(), Uri.parse(url30));
+                break;
+
+
+            case R.id.album_id_header_31:
+                final CustomTabsIntent intent31 = new CustomTabsIntent.Builder().build();
+                final String url31 ="https://photos.google.com/share/AF1QipNdQ4Cez0UO8IGSIsi28Mlvy6TxaeH3NPqC6Vdacp8FnfBKX3xvFx1d9rGJ494AJQ?key=U3dGUTZ3SFFhQUpHZ2RLbFVwNnRZQ3BHZG5wQ0VB";
+                intent31.launchUrl(getActivity(), Uri.parse(url31));
+                break;
+
+            case R.id.album_id_header_32:
+                final CustomTabsIntent intent32 = new CustomTabsIntent.Builder().build();
+                final String url32 ="https://photos.google.com/share/AF1QipMqjV3sZKp6fz03iGneHHQY8knawTXhIsm4n4X8o8e2eYV2K0jTcoCax0yIhUgO2g?key=SFVqTF8xYjFtbUp1ZklDVHRBSHh1V1NmUVhJYWdn";
+                intent32.launchUrl(getActivity(), Uri.parse(url32));
+                break;
+
+            case R.id.album_id_header_33:
+                final CustomTabsIntent intent33 = new CustomTabsIntent.Builder().build();
+                final String url33 ="https://photos.google.com/share/AF1QipPvzf3la4g2G1mRq11NzvFA2a9KXc3awRUZ1ZWKxRcOXz28OAZu1ZNrgpGeqVeHBQ?key=SVVHVVc0ckFCM05XRWZPd0YtVmZuZ0RyYU40V3Z3";
+                intent33.launchUrl(getActivity(), Uri.parse(url33));
                 break;
 
             case R.id.card_main_1_3:

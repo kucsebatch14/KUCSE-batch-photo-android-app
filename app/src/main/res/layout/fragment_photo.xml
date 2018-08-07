@@ -25,6 +25,11 @@
         <include layout="@layout/album_25_hilly" />
         <include layout="@layout/album_26_combined" />
         <include layout="@layout/album_classroom" />
+        <include layout="@layout/album_viba" />
+        <include layout="@layout/album_hangout" />
+        <include layout="@layout/album_footbalmatch" />
+        <include layout="@layout/album_firstclass" />
+        <include layout="@layout/album_firstcampus" />
         <include layout="@layout/album_halllife" />
         <include layout="@layout/album_27_sumitinvi" />
         <include layout="@layout/album_28_cox" />

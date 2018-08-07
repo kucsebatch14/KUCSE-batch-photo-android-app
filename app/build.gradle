@@ -43,6 +43,9 @@ dependencies {
     implementation  'com.thefinestartist:ytpa:1.2.1'
     implementation 'com.github.Q42:AndroidScrollingImageView:1.3.3'
 
+    implementation 'de.hdodenhof:circleimageview:2.1.0'
+    implementation 'com.flaviofaria:kenburnsview:1.0.7'
+    implementation 'com.github.florent37:arclayout:1.0.3'
     implementation 'com.squareup.picasso:picasso:2.5.2'
     implementation files('libs/universal-image-loader-1.9.3.jar')
 }
