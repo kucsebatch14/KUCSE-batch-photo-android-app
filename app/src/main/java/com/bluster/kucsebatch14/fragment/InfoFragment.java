@@ -405,15 +405,13 @@ public class InfoFragment extends Fragment implements View.OnClickListener, View
 
             case R.id.student_card_main_1:
 
-                intent.setClass(getActivity(), ArcLayoutMainActivity.class);
-                startActivity(intent);
-                break;
+
+            break;
 
 
             case R.id.student_card_main_2:
 
 
-                break;
 
             case R.id.student_card_main_3:
 
@@ -507,10 +505,120 @@ public class InfoFragment extends Fragment implements View.OnClickListener, View
 
                 break;
 
-            case R.id.student_card_main_22:
+
+            case R.id.student_card_main_23:
 
 
                 break;
+
+            case R.id.student_card_main_24:
+
+
+                break;
+
+
+
+            case R.id.student_card_main_25:
+
+
+                break;
+
+
+
+
+
+
+            case R.id.student_card_main_27:
+
+
+                break;
+
+
+
+            case R.id.student_card_main_28:
+
+
+                break;
+
+
+            case R.id.student_card_main_29:
+
+
+                break;
+
+
+            case R.id.student_card_main_30:
+
+
+                break;
+
+
+            case R.id.student_card_main_31:
+
+
+                break;
+
+
+
+            case R.id.student_card_main_32:
+
+
+                break;
+
+
+            case R.id.student_card_main_33:
+
+
+                break;
+
+
+
+            case R.id.student_card_main_34:
+
+
+                break;
+
+
+            case R.id.student_card_main_35:
+
+
+                break;
+
+
+
+            case R.id.student_card_main_36:
+
+
+                break;
+
+
+            case R.id.student_card_main_37:
+
+
+                break;
+
+
+            case R.id.student_card_main_38:
+
+
+                break;
+
+            case R.id.student_card_main_39:
+                intent.setClass(getActivity(), ArcLayoutMainActivity.class);
+                startActivity(intent);
+
+                break;
+
+            case R.id.student_card_main_40:
+
+
+                break;
+
+            case R.id.student_card_main_41:
+
+
+                break;
+
 
 
 
