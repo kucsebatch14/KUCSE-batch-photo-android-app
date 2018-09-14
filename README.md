@@ -77,11 +77,15 @@ It's super easy to make [pull requests](https://github.com/kucsebatch14/KUCSE-ba
   
 ---  
 
-#### Contrubutor of the open source project  
+#### Programming & design Contrubutor of the open source project  
 - [Md. Shahidul Islam](https://github.com/shahidul56)  
+
+#### Photo Contrubutor of the open source project  
+- [Al Zaminur Rahman]()  
 
 #### Assist contribution  
 - [Moksedul Islam Mishuk](moksedulislammishuk@gmail.com)  
+
 
 # Rules
 > 1. Don't do evil.
