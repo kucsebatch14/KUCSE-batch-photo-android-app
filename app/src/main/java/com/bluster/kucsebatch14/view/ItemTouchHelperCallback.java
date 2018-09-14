@@ -6,9 +6,8 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 
 import com.bluster.kucsebatch14.interf.onMoveAndSwipedListener;
 
-/**
- * Created by kucsebatch14 on 2016.08.21.
- */
+
+ 
 public class ItemTouchHelperCallback extends ItemTouchHelper.Callback {
 
     private final int TYPE_NORMAL = 1;

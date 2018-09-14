@@ -38,7 +38,7 @@ import static android.content.Context.MODE_PRIVATE;
 /**
  * Created by kucsebatch14 on 2018.07.6.
  */
-public class NewsFeedFragment extends Fragment  implements View.OnClickListener {
+public class VideoFragment extends Fragment  implements View.OnClickListener {
 
 
 
@@ -97,19 +97,19 @@ public class NewsFeedFragment extends Fragment  implements View.OnClickListener 
         play_bt_14= nestedScrollView.findViewById(R.id.play_bt_14);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID1,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID1,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_1);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID2,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID2,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_2);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID3,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID3,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_3);
@@ -119,66 +119,66 @@ public class NewsFeedFragment extends Fragment  implements View.OnClickListener 
 
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID4,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID4,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_4);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID5,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID5,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_5);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID6,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID6,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_6);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID7,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID7,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_7);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID8,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID8,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_8);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID9,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID9,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_9);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID10,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID10,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_10);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID11,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID11,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_11);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID12,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID12,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_12);
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID13,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID13,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_13);
 
         Picasso.with(getActivity())
-                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID14,Quality.HIGH))
+                .load(YouTubeThumbnail.getUrlFromVideoId(VIDEO_ID14,Quality.DEFAULT))
                 .fit()
                 .centerCrop()
                 .into(youtube_thumnail_14);

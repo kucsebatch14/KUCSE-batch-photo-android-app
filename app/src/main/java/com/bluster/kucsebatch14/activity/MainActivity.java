@@ -3,12 +3,9 @@ package com.bluster.kucsebatch14.activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
 import android.preference.PreferenceManager;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
-import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.GravityCompat;
@@ -20,18 +17,15 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.animation.AlphaAnimation;
-import android.view.animation.Animation;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.bumptech.glide.Glide;
 import com.bluster.kucsebatch14.R;
 import com.bluster.kucsebatch14.adapter.FragmentAdapter;
 import com.bluster.kucsebatch14.fragment.PhotoFragment;
 import com.bluster.kucsebatch14.fragment.InfoFragment;
-import com.bluster.kucsebatch14.fragment.NewsFeedFragment;
+import com.bluster.kucsebatch14.fragment.VideoFragment;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -202,7 +196,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         List<Fragment> fragments = new ArrayList<>();
         fragments.add(new PhotoFragment());  // calling the card name sliding part
         fragments.add(new InfoFragment()); //calling the dialog  name sliding part
-        fragments.add(new NewsFeedFragment()); //calling the widgets name sliding part
+        fragments.add(new VideoFragment()); //calling the widgets name sliding part
 
         mViewPager.setOffscreenPageLimit(2);// how many page will be in offline during the sliding time
 

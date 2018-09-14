@@ -6,9 +6,6 @@ import android.content.pm.PackageManager;
 
 import com.bluster.kucsebatch14.R;
 
-/**
- * Created by kucsebatch14 on 2017.11.22.
- */
 
 public class AppUtils {
 

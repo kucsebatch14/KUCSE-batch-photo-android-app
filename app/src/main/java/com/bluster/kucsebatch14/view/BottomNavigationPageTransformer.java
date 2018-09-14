@@ -3,9 +3,7 @@ package com.bluster.kucsebatch14.view;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
-/**
- * Created by ANTVR-24 on 17/04/06.
- */
+
 
 public class BottomNavigationPageTransformer implements ViewPager.PageTransformer {
     @Override

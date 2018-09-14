@@ -1,8 +1,5 @@
 package com.bluster.kucsebatch14;
 
-/**
- * Created by kucsebatch14 on 2016.09.23.
- */
 public class Constant {
 
     public static String APP_URL = "https://github.com/kucsebatch14/KUCSE-batch-photo-android-app";
